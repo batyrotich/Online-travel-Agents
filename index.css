@@ -6,3 +6,26 @@
 body{
     background: linear-gradient(to right, #9c27b0, #8ecdff);
 }
+nav{
+    height: 50px;
+     background: cornflowerblue;
+    
+}
+nav > ul{
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+}
+nav > ul > li{
+    display: inline-block;
+    line-height: 50px;
+    margin: 0 5px;
+    color: rgb(158, 146, 40);
+}
+nav > ul > li > a{
+     padding: 5px 0;
+     color: wheat;
+     font-size:  18px;
+     text-decoration: none;
+}
