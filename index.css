@@ -30,6 +30,9 @@ nav > ul > li > a{
      font-size:  18px;
      text-decoration: none;
 } 
+nav > ul > li > a:hover{
+    color: brown;
+}
 .column {
     float: left;
     width: 16.67%;
