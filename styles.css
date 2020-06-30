@@ -4,8 +4,17 @@
     float: left;
     font-size: 20px;
     opacity: 2;
+    padding: 10px;
+    position: absolute;
+    flex-wrap: wrap;
 }
-img{
+p{
+    position: center;
+    text-align: inherit;
+  
+}
+/*img{
     justify-content: space-between;
     display: flex;
-}
+   }
+*/
