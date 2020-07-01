@@ -9,15 +9,15 @@ html, body{
     height: 100%;
 }
 nav{
-    height: 50px;
-     background: cornflowerblue;
-    
+    height: 100px;
+     background: rgb(179, 185, 196);
+    position: fixed;
 }
 nav > ul{
     text-decoration: none;
     list-style: none;
-    float: left;
-    margin-left: 20px;
+    float: right;
+   
 }
 nav > ul > li{
     display: inline-block;
@@ -27,12 +27,12 @@ nav > ul > li{
 }
 nav > ul > li > a{
      padding: 5px 0;
-     color: wheat;
+     color: rgb(181, 245, 179);
      font-size:  18px;
      text-decoration: none;
 } 
 nav > ul > li > a:hover{
-    color: brown;
+    color: rgb(42, 147, 165);
 }
 .page-wrapper{
     min-height: 100%;
