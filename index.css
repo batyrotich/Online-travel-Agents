@@ -37,6 +37,10 @@ nav > ul > li > a:hover{
 .page-wrapper{
     min-height: 100%;
 }
+.page-wrapper > .main{
+    overflow: auto;
+    
+}
 .footer{
     background: #303036;
     color: cornsilk;
