@@ -1,3 +1,8 @@
+.home{
+    overflow-x: hidden;
+  
+}
+
 #destinations{
     justify-content: space-between;
     display: flex;
@@ -18,9 +23,9 @@ body{
     position: absolute;
     bottom: 100px;
 }
-img:hover {
+/*img:hover {
     transform: scaleX(1.3);
-}
+}*/
   h2{
       font-weight: bold;
       font-size: 40px;
