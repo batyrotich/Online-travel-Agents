@@ -31,6 +31,8 @@ nav > ul > li > a{
      font-size:  18px;
      text-decoration: none;
 } 
+<<<<<<< HEAD
+=======
 nav > ul > li > a:hover{
     color: brown;
 }
@@ -97,3 +99,4 @@ nav > ul > li > a:hover{
     left: 0px;
     padding-top: 20px;
 }
+>>>>>>> 5e400b4b19031d146b9ff32ac208a18bd2aec79c
