@@ -2,7 +2,6 @@
     overflow-x: hidden;
   
 }
-
 #destinations{
     justify-content: space-between;
     display: flex;
@@ -10,9 +9,9 @@
     font-size: 20px;
     opacity: 2;
     padding: 60px;
-
     flex-wrap: wrap;
     box-sizing: border-box;
+    background-color: rgb(62, 36, 73);
 } 
 body{
     color: darkviolet;
